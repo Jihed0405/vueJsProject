@@ -1,4 +1,10 @@
-# vue-device-seller
+# vue-device-seller Admin
+
+a project for polytechSousse sem2 developped 
+with vue3 , backend is developped with Spring Boot 
+and the database is with PostgreSQL
+
+to see the back end code go to https://dashboard.heroku.com/apps/admin-e-commerce
 
 ## Project setup
 ```
